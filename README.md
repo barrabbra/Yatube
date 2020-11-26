@@ -1,2 +1,4 @@
 # yatube
-Social network of bloggers.
+Social network of bloggers. 
+
+Учебный проект для яндекс Практикум.
